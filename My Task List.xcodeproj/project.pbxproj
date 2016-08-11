@@ -15,6 +15,7 @@
 		8F10A1431D5BF1CF005956B5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8F10A1411D5BF1CF005956B5 /* LaunchScreen.storyboard */; };
 		8F10A14E1D5BF1CF005956B5 /* My_Task_ListTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F10A14D1D5BF1CF005956B5 /* My_Task_ListTests.swift */; };
 		8F10A1591D5BF1CF005956B5 /* My_Task_ListUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F10A1581D5BF1CF005956B5 /* My_Task_ListUITests.swift */; };
+		8F10A1691D5BF21C005956B5 /* TaskManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F10A1681D5BF21C005956B5 /* TaskManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		8F10A1541D5BF1CF005956B5 /* My Task ListUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "My Task ListUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8F10A1581D5BF1CF005956B5 /* My_Task_ListUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = My_Task_ListUITests.swift; sourceTree = "<group>"; };
 		8F10A15A1D5BF1CF005956B5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8F10A1681D5BF21C005956B5 /* TaskManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TaskManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				8F10A1361D5BF1CE005956B5 /* AppDelegate.swift */,
 				8F10A1381D5BF1CE005956B5 /* FirstViewController.swift */,
 				8F10A13A1D5BF1CE005956B5 /* SecondViewController.swift */,
+				8F10A1681D5BF21C005956B5 /* TaskManager.swift */,
 				8F10A13C1D5BF1CE005956B5 /* Main.storyboard */,
 				8F10A13F1D5BF1CF005956B5 /* Assets.xcassets */,
 				8F10A1411D5BF1CF005956B5 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 			files = (
 				8F10A13B1D5BF1CE005956B5 /* SecondViewController.swift in Sources */,
 				8F10A1371D5BF1CE005956B5 /* AppDelegate.swift in Sources */,
+				8F10A1691D5BF21C005956B5 /* TaskManager.swift in Sources */,
 				8F10A1391D5BF1CE005956B5 /* FirstViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
